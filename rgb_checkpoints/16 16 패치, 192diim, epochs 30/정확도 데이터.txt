@@ -1,0 +1,226 @@
+
+Epoch 1/30
+0 | train loss: 4.3403 | train acc: 0.0460
+3 | train loss: 4.0435 | train acc: 0.0902
+2 | train loss: 3.7806 | train acc: 0.1314
+1 | train loss: 3.5831 | train acc: 0.1627
+Validation | loss: 3.5742 | acc: 0.1586
+Saved RGB checkpoint: /home/kyjoo/DCT_ViT/rgb_checkpoints/vit_tiny_patch16_224_epochs30_best.pt
+
+Epoch 2/30
+3 | train loss: 3.4035 | train acc: 0.1950
+2 | train loss: 3.2655 | train acc: 0.2220
+0 | train loss: 3.1017 | train acc: 0.2535
+1 | train loss: 3.0183 | train acc: 0.2667
+Validation | loss: 3.0990 | acc: 0.2542
+Saved RGB checkpoint: /home/kyjoo/DCT_ViT/rgb_checkpoints/vit_tiny_patch16_224_epochs30_best.pt
+
+Epoch 3/30
+1 | train loss: 2.9011 | train acc: 0.2867
+2 | train loss: 2.8332 | train acc: 0.2993
+3 | train loss: 2.7398 | train acc: 0.3208
+0 | train loss: 2.7279 | train acc: 0.3257
+Validation | loss: 2.8657 | acc: 0.2950
+Saved RGB checkpoint: /home/kyjoo/DCT_ViT/rgb_checkpoints/vit_tiny_patch16_224_epochs30_best.pt
+
+Epoch 4/30
+1 | train loss: 2.5945 | train acc: 0.3484
+0 | train loss: 2.5559 | train acc: 0.3588
+2 | train loss: 2.5032 | train acc: 0.3647
+3 | train loss: 2.4936 | train acc: 0.3693
+Validation | loss: 2.6446 | acc: 0.3380
+Saved RGB checkpoint: /home/kyjoo/DCT_ViT/rgb_checkpoints/vit_tiny_patch16_224_epochs30_best.pt
+
+Epoch 5/30
+2 | train loss: 2.3680 | train acc: 0.3954
+0 | train loss: 2.3557 | train acc: 0.3972
+1 | train loss: 2.3147 | train acc: 0.4053
+3 | train loss: 2.3027 | train acc: 0.4101
+Validation | loss: 2.5131 | acc: 0.3622
+Saved RGB checkpoint: /home/kyjoo/DCT_ViT/rgb_checkpoints/vit_tiny_patch16_224_epochs30_best.pt
+
+Epoch 6/30
+1 | train loss: 2.1997 | train acc: 0.4337
+2 | train loss: 2.2001 | train acc: 0.4315
+0 | train loss: 2.1466 | train acc: 0.4416
+3 | train loss: 2.1701 | train acc: 0.4354
+Validation | loss: 2.4237 | acc: 0.3900
+Saved RGB checkpoint: /home/kyjoo/DCT_ViT/rgb_checkpoints/vit_tiny_patch16_224_epochs30_best.pt
+
+Epoch 7/30
+2 | train loss: 2.0364 | train acc: 0.4659
+1 | train loss: 2.0539 | train acc: 0.4629
+3 | train loss: 2.0447 | train acc: 0.4634
+0 | train loss: 2.0267 | train acc: 0.4682
+Validation | loss: 2.3801 | acc: 0.3998
+Saved RGB checkpoint: /home/kyjoo/DCT_ViT/rgb_checkpoints/vit_tiny_patch16_224_epochs30_best.pt
+
+Epoch 8/30
+3 | train loss: 1.9106 | train acc: 0.4971
+2 | train loss: 1.9208 | train acc: 0.4901
+0 | train loss: 1.9327 | train acc: 0.4889
+1 | train loss: 1.9301 | train acc: 0.4913
+Validation | loss: 2.2617 | acc: 0.4136
+Saved RGB checkpoint: /home/kyjoo/DCT_ViT/rgb_checkpoints/vit_tiny_patch16_224_epochs30_best.pt
+
+Epoch 9/30
+3 | train loss: 1.7720 | train acc: 0.5266
+0 | train loss: 1.8346 | train acc: 0.5110
+2 | train loss: 1.8219 | train acc: 0.5130
+1 | train loss: 1.8114 | train acc: 0.5189
+Validation | loss: 2.2493 | acc: 0.4286
+Saved RGB checkpoint: /home/kyjoo/DCT_ViT/rgb_checkpoints/vit_tiny_patch16_224_epochs30_best.pt
+
+Epoch 10/30
+1 | train loss: 1.6703 | train acc: 0.5506
+0 | train loss: 1.7152 | train acc: 0.5405
+3 | train loss: 1.7031 | train acc: 0.5375
+2 | train loss: 1.7232 | train acc: 0.5393
+Validation | loss: 2.2120 | acc: 0.4404
+Saved RGB checkpoint: /home/kyjoo/DCT_ViT/rgb_checkpoints/vit_tiny_patch16_224_epochs30_best.pt
+
+Epoch 11/30
+0 | train loss: 1.5489 | train acc: 0.5792
+3 | train loss: 1.5889 | train acc: 0.5677
+2 | train loss: 1.6318 | train acc: 0.5548
+1 | train loss: 1.6751 | train acc: 0.5435
+Validation | loss: 2.1771 | acc: 0.4440
+Saved RGB checkpoint: /home/kyjoo/DCT_ViT/rgb_checkpoints/vit_tiny_patch16_224_epochs30_best.pt
+
+Epoch 12/30
+1 | train loss: 1.4647 | train acc: 0.5982
+2 | train loss: 1.5157 | train acc: 0.5875
+0 | train loss: 1.5017 | train acc: 0.5852
+3 | train loss: 1.5451 | train acc: 0.5726
+Validation | loss: 2.1688 | acc: 0.4488
+Saved RGB checkpoint: /home/kyjoo/DCT_ViT/rgb_checkpoints/vit_tiny_patch16_224_epochs30_best.pt
+
+Epoch 13/30
+0 | train loss: 1.3748 | train acc: 0.6219
+2 | train loss: 1.4240 | train acc: 0.6044
+1 | train loss: 1.4199 | train acc: 0.6065
+3 | train loss: 1.4378 | train acc: 0.6003
+Validation | loss: 2.1914 | acc: 0.4482
+
+Epoch 14/30
+1 | train loss: 1.2494 | train acc: 0.6531
+3 | train loss: 1.3180 | train acc: 0.6333
+0 | train loss: 1.3243 | train acc: 0.6306
+2 | train loss: 1.3181 | train acc: 0.6317
+Validation | loss: 2.1699 | acc: 0.4590
+Saved RGB checkpoint: /home/kyjoo/DCT_ViT/rgb_checkpoints/vit_tiny_patch16_224_epochs30_best.pt
+
+Epoch 15/30
+3 | train loss: 1.1591 | train acc: 0.6742
+0 | train loss: 1.1852 | train acc: 0.6592
+1 | train loss: 1.2577 | train acc: 0.6459
+2 | train loss: 1.2531 | train acc: 0.6460
+Validation | loss: 2.2040 | acc: 0.4544
+
+Epoch 16/30
+0 | train loss: 1.0200 | train acc: 0.7118
+3 | train loss: 1.0770 | train acc: 0.6890
+2 | train loss: 1.1334 | train acc: 0.6748
+1 | train loss: 1.1739 | train acc: 0.6640
+Validation | loss: 2.2466 | acc: 0.4564
+
+Epoch 17/30
+0 | train loss: 0.9608 | train acc: 0.7253
+1 | train loss: 0.9730 | train acc: 0.7172
+3 | train loss: 1.0146 | train acc: 0.7068
+2 | train loss: 1.0495 | train acc: 0.6942
+Validation | loss: 2.3165 | acc: 0.4518
+
+Epoch 18/30
+3 | train loss: 0.8425 | train acc: 0.7572
+1 | train loss: 0.8861 | train acc: 0.7404
+0 | train loss: 0.9312 | train acc: 0.7258
+2 | train loss: 0.9464 | train acc: 0.7239
+Validation | loss: 2.3405 | acc: 0.4524
+
+Epoch 19/30
+1 | train loss: 0.7514 | train acc: 0.7781
+0 | train loss: 0.7916 | train acc: 0.7668
+2 | train loss: 0.8318 | train acc: 0.7534
+3 | train loss: 0.8282 | train acc: 0.7530
+Validation | loss: 2.3866 | acc: 0.4602
+Saved RGB checkpoint: /home/kyjoo/DCT_ViT/rgb_checkpoints/vit_tiny_patch16_224_epochs30_best.pt
+
+Epoch 20/30
+2 | train loss: 0.6137 | train acc: 0.8186
+3 | train loss: 0.6804 | train acc: 0.7976
+0 | train loss: 0.8429 | train acc: 0.7443
+1 | train loss: 0.7479 | train acc: 0.7759
+Validation | loss: 2.4702 | acc: 0.4610
+Saved RGB checkpoint: /home/kyjoo/DCT_ViT/rgb_checkpoints/vit_tiny_patch16_224_epochs30_best.pt
+
+Epoch 21/30
+2 | train loss: 0.5202 | train acc: 0.8487
+1 | train loss: 0.5946 | train acc: 0.8192
+0 | train loss: 0.6366 | train acc: 0.8072
+3 | train loss: 0.6804 | train acc: 0.7919
+Validation | loss: 2.5250 | acc: 0.4548
+
+Epoch 22/30
+2 | train loss: 0.4523 | train acc: 0.8663
+0 | train loss: 0.5161 | train acc: 0.8415
+3 | train loss: 0.5523 | train acc: 0.8291
+1 | train loss: 0.5937 | train acc: 0.8162
+Validation | loss: 2.6701 | acc: 0.4504
+
+Epoch 23/30
+1 | train loss: 0.4010 | train acc: 0.8783
+3 | train loss: 0.4118 | train acc: 0.8732
+2 | train loss: 0.4869 | train acc: 0.8464
+0 | train loss: 0.5283 | train acc: 0.8351
+Validation | loss: 2.7022 | acc: 0.4568
+
+Epoch 24/30
+1 | train loss: 0.3334 | train acc: 0.9000
+0 | train loss: 0.3802 | train acc: 0.8804
+2 | train loss: 0.4352 | train acc: 0.8611
+3 | train loss: 0.4562 | train acc: 0.8553
+Validation | loss: 2.8352 | acc: 0.4408
+
+Epoch 25/30
+1 | train loss: 0.3184 | train acc: 0.9035
+0 | train loss: 0.2910 | train acc: 0.9121
+2 | train loss: 0.3624 | train acc: 0.8844
+3 | train loss: 0.4271 | train acc: 0.8635
+Validation | loss: 2.8780 | acc: 0.4510
+
+Epoch 26/30
+1 | train loss: 0.2357 | train acc: 0.9299
+2 | train loss: 0.2734 | train acc: 0.9151
+0 | train loss: 0.3270 | train acc: 0.8959
+3 | train loss: 0.3870 | train acc: 0.8742
+Validation | loss: 2.9788 | acc: 0.4488
+
+Epoch 27/30
+2 | train loss: 0.2158 | train acc: 0.9353
+1 | train loss: 0.2365 | train acc: 0.9256
+0 | train loss: 0.3065 | train acc: 0.9006
+3 | train loss: 0.3196 | train acc: 0.8984
+Validation | loss: 3.0875 | acc: 0.4462
+
+Epoch 28/30
+1 | train loss: 0.1949 | train acc: 0.9425
+3 | train loss: 0.2182 | train acc: 0.9322
+0 | train loss: 0.3540 | train acc: 0.8858
+2 | train loss: 0.3214 | train acc: 0.8952
+Validation | loss: 3.1548 | acc: 0.4466
+
+Epoch 29/30
+3 | train loss: 0.1694 | train acc: 0.9483
+1 | train loss: 0.2130 | train acc: 0.9342
+2 | train loss: 0.2385 | train acc: 0.9235
+0 | train loss: 0.2568 | train acc: 0.9168
+Validation | loss: 3.1821 | acc: 0.4452
+
+Epoch 30/30
+2 | train loss: 0.1760 | train acc: 0.9458
+0 | train loss: 0.2034 | train acc: 0.9366
+3 | train loss: 0.2125 | train acc: 0.9318
+1 | train loss: 0.2784 | train acc: 0.9099
+Validation | loss: 3.2835 | acc: 0.4432
+Saved RGB checkpoint: /home/kyjoo/DCT_ViT/rgb_checkpoints/vit_tiny_patch16_224_epochs30_last.pt

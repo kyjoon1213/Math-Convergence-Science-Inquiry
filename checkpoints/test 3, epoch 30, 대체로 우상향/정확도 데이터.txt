@@ -1,0 +1,237 @@
+
+Epoch 1/30
+2 | train loss: 4.5917 | train acc: 0.0149
+1 | train loss: 4.5082 | train acc: 0.0322
+0 | train loss: 4.4519 | train acc: 0.0333
+3 | train loss: 4.4215 | train acc: 0.0359
+Validation | loss: 4.3830 | acc: 0.0364
+Saved checkpoint: /home/kyjoo/DCT_ViT/checkpoints/dim64_y20_cb15_cr15_mid48_best.pt
+
+Epoch 2/30
+1 | train loss: 4.3831 | train acc: 0.0387
+0 | train loss: 4.3281 | train acc: 0.0494
+3 | train loss: 4.2879 | train acc: 0.0549
+2 | train loss: 4.2255 | train acc: 0.0643
+Validation | loss: 4.1777 | acc: 0.0682
+Saved checkpoint: /home/kyjoo/DCT_ViT/checkpoints/dim64_y20_cb15_cr15_mid48_best.pt
+
+Epoch 3/30
+3 | train loss: 4.1491 | train acc: 0.0738
+1 | train loss: 4.1025 | train acc: 0.0779
+0 | train loss: 4.0560 | train acc: 0.0888
+2 | train loss: 4.0066 | train acc: 0.0890
+Validation | loss: 3.9834 | acc: 0.0876
+Saved checkpoint: /home/kyjoo/DCT_ViT/checkpoints/dim64_y20_cb15_cr15_mid48_best.pt
+
+Epoch 4/30
+1 | train loss: 3.9634 | train acc: 0.0955
+2 | train loss: 3.9088 | train acc: 0.1044
+3 | train loss: 3.8850 | train acc: 0.1137
+0 | train loss: 3.8184 | train acc: 0.1205
+Validation | loss: 3.8338 | acc: 0.1086
+Saved checkpoint: /home/kyjoo/DCT_ViT/checkpoints/dim64_y20_cb15_cr15_mid48_best.pt
+
+Epoch 5/30
+1 | train loss: 3.7602 | train acc: 0.1316
+0 | train loss: 3.7321 | train acc: 0.1374
+3 | train loss: 3.6741 | train acc: 0.1490
+2 | train loss: 3.6324 | train acc: 0.1542
+Validation | loss: 3.6387 | acc: 0.1460
+Saved checkpoint: /home/kyjoo/DCT_ViT/checkpoints/dim64_y20_cb15_cr15_mid48_best.pt
+
+Epoch 6/30
+2 | train loss: 3.5604 | train acc: 0.1657
+3 | train loss: 3.5332 | train acc: 0.1713
+1 | train loss: 3.4659 | train acc: 0.1843
+0 | train loss: 3.4035 | train acc: 0.1950
+Validation | loss: 3.5251 | acc: 0.1722
+Saved checkpoint: /home/kyjoo/DCT_ViT/checkpoints/dim64_y20_cb15_cr15_mid48_best.pt
+
+Epoch 7/30
+1 | train loss: 3.3651 | train acc: 0.2029
+0 | train loss: 3.3411 | train acc: 0.2073
+3 | train loss: 3.3023 | train acc: 0.2109
+2 | train loss: 3.2863 | train acc: 0.2151
+Validation | loss: 3.3505 | acc: 0.2046
+Saved checkpoint: /home/kyjoo/DCT_ViT/checkpoints/dim64_y20_cb15_cr15_mid48_best.pt
+
+Epoch 8/30
+3 | train loss: 3.2243 | train acc: 0.2254
+1 | train loss: 3.2105 | train acc: 0.2365
+0 | train loss: 3.1656 | train acc: 0.2364
+2 | train loss: 3.1305 | train acc: 0.2440
+Validation | loss: 3.2488 | acc: 0.2260
+Saved checkpoint: /home/kyjoo/DCT_ViT/checkpoints/dim64_y20_cb15_cr15_mid48_best.pt
+
+Epoch 9/30
+3 | train loss: 3.1021 | train acc: 0.2496
+1 | train loss: 3.0721 | train acc: 0.2596
+2 | train loss: 3.0708 | train acc: 0.2573
+0 | train loss: 3.0326 | train acc: 0.2630
+Validation | loss: 3.1503 | acc: 0.2446
+Saved checkpoint: /home/kyjoo/DCT_ViT/checkpoints/dim64_y20_cb15_cr15_mid48_best.pt
+
+Epoch 10/30
+2 | train loss: 3.0019 | train acc: 0.2715
+1 | train loss: 2.9758 | train acc: 0.2739
+3 | train loss: 2.9456 | train acc: 0.2786
+0 | train loss: 2.9437 | train acc: 0.2820
+Validation | loss: 3.0713 | acc: 0.2528
+Saved checkpoint: /home/kyjoo/DCT_ViT/checkpoints/dim64_y20_cb15_cr15_mid48_best.pt
+
+Epoch 11/30
+3 | train loss: 2.8845 | train acc: 0.2915
+1 | train loss: 2.8975 | train acc: 0.2901
+0 | train loss: 2.8630 | train acc: 0.2968
+2 | train loss: 2.8781 | train acc: 0.2925
+Validation | loss: 3.0428 | acc: 0.2552
+Saved checkpoint: /home/kyjoo/DCT_ViT/checkpoints/dim64_y20_cb15_cr15_mid48_best.pt
+
+Epoch 12/30
+1 | train loss: 2.8276 | train acc: 0.3033
+2 | train loss: 2.8353 | train acc: 0.3055
+0 | train loss: 2.7736 | train acc: 0.3119
+3 | train loss: 2.7922 | train acc: 0.3101
+Validation | loss: 2.9604 | acc: 0.2746
+Saved checkpoint: /home/kyjoo/DCT_ViT/checkpoints/dim64_y20_cb15_cr15_mid48_best.pt
+
+Epoch 13/30
+3 | train loss: 2.7487 | train acc: 0.3158
+2 | train loss: 2.7463 | train acc: 0.3174
+0 | train loss: 2.7200 | train acc: 0.3233
+1 | train loss: 2.7242 | train acc: 0.3270
+Validation | loss: 2.9060 | acc: 0.2820
+Saved checkpoint: /home/kyjoo/DCT_ViT/checkpoints/dim64_y20_cb15_cr15_mid48_best.pt
+
+Epoch 14/30
+0 | train loss: 2.6755 | train acc: 0.3304
+3 | train loss: 2.6846 | train acc: 0.3298
+2 | train loss: 2.6806 | train acc: 0.3307
+1 | train loss: 2.6374 | train acc: 0.3381
+Validation | loss: 2.8244 | acc: 0.3010
+Saved checkpoint: /home/kyjoo/DCT_ViT/checkpoints/dim64_y20_cb15_cr15_mid48_best.pt
+
+Epoch 15/30
+3 | train loss: 2.6246 | train acc: 0.3407
+0 | train loss: 2.5974 | train acc: 0.3451
+2 | train loss: 2.6057 | train acc: 0.3475
+1 | train loss: 2.6080 | train acc: 0.3481
+Validation | loss: 2.8149 | acc: 0.3088
+Saved checkpoint: /home/kyjoo/DCT_ViT/checkpoints/dim64_y20_cb15_cr15_mid48_best.pt
+
+Epoch 16/30
+2 | train loss: 2.5891 | train acc: 0.3482
+0 | train loss: 2.5334 | train acc: 0.3570
+3 | train loss: 2.5600 | train acc: 0.3559
+1 | train loss: 2.5713 | train acc: 0.3532
+Validation | loss: 2.7816 | acc: 0.3074
+
+Epoch 17/30
+2 | train loss: 2.5421 | train acc: 0.3596
+1 | train loss: 2.4932 | train acc: 0.3691
+0 | train loss: 2.5270 | train acc: 0.3590
+3 | train loss: 2.5210 | train acc: 0.3617
+Validation | loss: 2.7275 | acc: 0.3206
+Saved checkpoint: /home/kyjoo/DCT_ViT/checkpoints/dim64_y20_cb15_cr15_mid48_best.pt
+
+Epoch 18/30
+0 | train loss: 2.4782 | train acc: 0.3704
+3 | train loss: 2.4976 | train acc: 0.3661
+1 | train loss: 2.4672 | train acc: 0.3735
+2 | train loss: 2.4365 | train acc: 0.3814
+Validation | loss: 2.6973 | acc: 0.3288
+Saved checkpoint: /home/kyjoo/DCT_ViT/checkpoints/dim64_y20_cb15_cr15_mid48_best.pt
+
+Epoch 19/30
+0 | train loss: 2.4314 | train acc: 0.3831
+3 | train loss: 2.4120 | train acc: 0.3826
+2 | train loss: 2.4507 | train acc: 0.3784
+1 | train loss: 2.4277 | train acc: 0.3837
+Validation | loss: 2.6656 | acc: 0.3400
+Saved checkpoint: /home/kyjoo/DCT_ViT/checkpoints/dim64_y20_cb15_cr15_mid48_best.pt
+
+Epoch 20/30
+1 | train loss: 2.3779 | train acc: 0.3931
+3 | train loss: 2.3948 | train acc: 0.3856
+2 | train loss: 2.3902 | train acc: 0.3900
+0 | train loss: 2.4017 | train acc: 0.3887
+Validation | loss: 2.6899 | acc: 0.3362
+
+Epoch 21/30
+1 | train loss: 2.3513 | train acc: 0.3976
+0 | train loss: 2.3635 | train acc: 0.3946
+2 | train loss: 2.3577 | train acc: 0.3967
+3 | train loss: 2.3469 | train acc: 0.3999
+Validation | loss: 2.6491 | acc: 0.3414
+Saved checkpoint: /home/kyjoo/DCT_ViT/checkpoints/dim64_y20_cb15_cr15_mid48_best.pt
+
+Epoch 22/30
+1 | train loss: 2.3062 | train acc: 0.4108
+0 | train loss: 2.3101 | train acc: 0.4016
+2 | train loss: 2.3235 | train acc: 0.4053
+3 | train loss: 2.3147 | train acc: 0.4020
+Validation | loss: 2.6260 | acc: 0.3412
+
+Epoch 23/30
+3 | train loss: 2.2934 | train acc: 0.4066
+2 | train loss: 2.2729 | train acc: 0.4139
+0 | train loss: 2.2931 | train acc: 0.4111
+1 | train loss: 2.3009 | train acc: 0.4074
+Validation | loss: 2.5815 | acc: 0.3552
+Saved checkpoint: /home/kyjoo/DCT_ViT/checkpoints/dim64_y20_cb15_cr15_mid48_best.pt
+
+Epoch 24/30
+1 | train loss: 2.2479 | train acc: 0.4162
+2 | train loss: 2.2581 | train acc: 0.4154
+3 | train loss: 2.2264 | train acc: 0.4278
+0 | train loss: 2.2680 | train acc: 0.4136
+Validation | loss: 2.5849 | acc: 0.3572
+Saved checkpoint: /home/kyjoo/DCT_ViT/checkpoints/dim64_y20_cb15_cr15_mid48_best.pt
+
+Epoch 25/30
+2 | train loss: 2.2257 | train acc: 0.4263
+1 | train loss: 2.2187 | train acc: 0.4237
+3 | train loss: 2.2506 | train acc: 0.4148
+0 | train loss: 2.1959 | train acc: 0.4299
+Validation | loss: 2.5639 | acc: 0.3648
+Saved checkpoint: /home/kyjoo/DCT_ViT/checkpoints/dim64_y20_cb15_cr15_mid48_best.pt
+
+Epoch 26/30
+1 | train loss: 2.1825 | train acc: 0.4352
+2 | train loss: 2.1750 | train acc: 0.4359
+0 | train loss: 2.2341 | train acc: 0.4199
+3 | train loss: 2.2000 | train acc: 0.4258
+Validation | loss: 2.5214 | acc: 0.3668
+Saved checkpoint: /home/kyjoo/DCT_ViT/checkpoints/dim64_y20_cb15_cr15_mid48_best.pt
+
+Epoch 27/30
+3 | train loss: 2.1517 | train acc: 0.4407
+1 | train loss: 2.1567 | train acc: 0.4368
+0 | train loss: 2.1655 | train acc: 0.4372
+2 | train loss: 2.1763 | train acc: 0.4342
+Validation | loss: 2.5407 | acc: 0.3684
+Saved checkpoint: /home/kyjoo/DCT_ViT/checkpoints/dim64_y20_cb15_cr15_mid48_best.pt
+
+Epoch 28/30
+3 | train loss: 2.1449 | train acc: 0.4381
+2 | train loss: 2.1607 | train acc: 0.4367
+0 | train loss: 2.1361 | train acc: 0.4429
+1 | train loss: 2.1423 | train acc: 0.4387
+Validation | loss: 2.5402 | acc: 0.3674
+
+Epoch 29/30
+1 | train loss: 2.0824 | train acc: 0.4526
+3 | train loss: 2.1218 | train acc: 0.4454
+0 | train loss: 2.1307 | train acc: 0.4439
+2 | train loss: 2.1181 | train acc: 0.4476
+Validation | loss: 2.5115 | acc: 0.3768
+Saved checkpoint: /home/kyjoo/DCT_ViT/checkpoints/dim64_y20_cb15_cr15_mid48_best.pt
+
+Epoch 30/30
+0 | train loss: 2.0885 | train acc: 0.4577
+2 | train loss: 2.0737 | train acc: 0.4555
+1 | train loss: 2.0952 | train acc: 0.4502
+3 | train loss: 2.0982 | train acc: 0.4493
+Validation | loss: 2.4899 | acc: 0.3798
+Saved checkpoint: /home/kyjoo/DCT_ViT/checkpoints/dim64_y20_cb15_cr15_mid48_best.pt
+Saved checkpoint: /home/kyjoo/DCT_ViT/checkpoints/dim64_y20_cb15_cr15_mid48_last.pt
